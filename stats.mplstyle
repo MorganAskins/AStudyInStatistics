@@ -1,0 +1,37 @@
+#Frame defaults
+
+figure.frameon: True
+legend.frameon: False
+figure.figsize: 10, 7
+font.size: 19
+font.family: serif
+font.serif: Times New Roman
+#mathtext.fontset: stix
+#mathtext.default: regular
+
+mathtext.fontset: custom
+mathtext.rm: Times New Roman
+mathtext.it: Nimbus Roman Italic
+mathtext.tt: Times New Roman
+mathtext.bf: Times New Roman Bold
+mathtext.cal: Times New Roman
+mathtext.sf: Times New Roman
+
+# SNO+ Ticks
+xtick.top: True
+ytick.right: True
+xtick.minor.visible: True
+ytick.minor.visible: True
+xtick.direction: in
+ytick.direction: in
+xtick.labelsize: large
+ytick.labelsize: large
+xtick.major.size: 8.0
+xtick.minor.size: 4.0
+xtick.major.width: 2.0
+xtick.minor.width: 1.5
+ytick.major.size: 8.0
+ytick.minor.size: 4.0
+ytick.major.width: 2.0
+ytick.minor.width: 1.5
+axes.linewidth: 2.0
