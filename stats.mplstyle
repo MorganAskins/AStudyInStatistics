@@ -9,6 +9,9 @@ font.serif: Times New Roman
 #mathtext.fontset: stix
 #mathtext.default: regular
 
+# Lines
+lines.linewidth: 4.0
+
 mathtext.fontset: custom
 mathtext.rm: Times New Roman
 mathtext.it: Nimbus Roman Italic
@@ -17,7 +20,7 @@ mathtext.bf: Times New Roman Bold
 mathtext.cal: Times New Roman
 mathtext.sf: Times New Roman
 
-# SNO+ Ticks
+# Ticks
 xtick.top: True
 ytick.right: True
 xtick.minor.visible: True
